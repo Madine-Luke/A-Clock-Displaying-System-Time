@@ -1,4 +1,4 @@
-This is a simple clock programe displaying current system time.
+This is a simple clock programme displaying current system time.
 
 The following image is a sample output:
 
